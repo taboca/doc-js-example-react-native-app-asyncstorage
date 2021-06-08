@@ -1,4 +1,4 @@
-# Example of AsyncStorage in a React Native App
+# Study notes - AsyncStorage in a React Native App
 
 ## Introduction
 
